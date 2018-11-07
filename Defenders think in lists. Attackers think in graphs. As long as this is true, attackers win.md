@@ -1,4 +1,7 @@
 # Defenders think in lists. Attackers think in graphs. As long as this is true, attackers win.
+Date: April 26, 2015
+
+Author: [@JohnLaTwC](https://twitter.com/JohnLaTwC)
 ## Defender Mindset
 A lot of network defense goes wrong before any contact with an adversary, starting with how defenders conceive of the battlefield. Most defenders focus on protecting their assets, prioritizing them, and sorting them by workload and business function. Defenders are awash in lists of assets—in system management services, in asset inventory databases, in BCDR spreadsheets. There's one problem with all of this. Defenders don't have a list of assets—they have a graph. Assets are connected to each other by security relationships. Attackers breach a network by landing somewhere in the graph using a technique such as spearphishing and they hack, finding vulnerable systems by navigating the graph. Who creates this graph? You do.
 ## What Is the Graph?
