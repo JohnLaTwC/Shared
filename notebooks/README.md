@@ -7,3 +7,6 @@ Launch Shellcode analysis notebook on mybinder:
 
 Launch block API resolution notebook on mybinder:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JohnLaTwC/Shared/master?filepath=notebooks%2FBlock%20API%20resolution.ipynb)
+
+Launch Environmental Key notebook on mybinder:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JohnLaTwC/Shared/master?filepath=notebooks%2FEnvironmental%20Key%20Login.ipynb)
