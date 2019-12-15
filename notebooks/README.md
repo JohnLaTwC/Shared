@@ -12,3 +12,6 @@ Launch Environmental Key notebook on mybinder:
 
 Launch Shellcode / CyberChef analysis notebook on mybinder:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JohnLaTwC/Shared/master?filepath=notebooks%2FPowershell%20Shellcode%20Analysis%20with%20CyberChef.ipynb)
+
+Color cells notebook on mybinder:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JohnLaTwC/Shared/master?filepath=notebooks%2FColor%20cells.ipynb)
