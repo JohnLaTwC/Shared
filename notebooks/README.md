@@ -18,3 +18,6 @@ Color cells notebook on mybinder:
 
 COVID-19 indicator notebook on mybinder:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JohnLaTwC/Shared/master?filepath=notebooks%2FCOVID19-v.14.ipynb)
+
+PDF to DOCX notebook on mybinder:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JohnLaTwC/Shared/master?filepath=notebooks%2FPDF%20to%20DOCX.ipynb)
