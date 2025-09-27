@@ -883,31 +883,31 @@ The mind with which you perceive the world, that’s the world you live in
 
 Sam Harris on meditation:
 
-focus on breath to help you see how often thoughts invade and distract you. They possess you and carry you away
+> focus on breath to help you see how often thoughts invade and distract you. They possess you and carry you away
 
-It’s about paying attention to your experience
+> It’s about paying attention to your experience
 
-You just start talking to yourself and forget about breathing
+> You just start talking to yourself and forget about breathing
 
-Hopelessly carried away by it… like a light dream
+> Hopelessly carried away by it… like a light dream
 
-Dreaming has no reality test that starts by “hey, how did I get here? I was just in bed”
+> Dreaming has no reality test that starts by “hey, how did I get here? I was just in bed”
 
-You’re just helplessly thinking. You believe you’re the thinker. It produces all your goals, intentions, and actions
+> You’re just helplessly thinking. You believe you’re the thinker. It produces all your goals, intentions, and actions
 
-Virtually all of your psychological suffering is a matter of being lost in thought
+> Virtually all of your psychological suffering is a matter of being lost in thought
 
-“Pain and suffering are not the same thing”
+> “Pain and suffering are not the same thing”
 
-A flow of mentation that produces everything you do—your goals, actions, and intentions. It colors your experience every moment. Sounds, sensations, and thoughts can join them as just objects of consciousness
+> A flow of mentation that produces everything you do—your goals, actions, and intentions. It colors your experience every moment. Sounds, sensations, and thoughts can join them as just objects of consciousness
 
-You’re helplessly thinking all your life, every moment, so incessantly that you don’t even notice it. It’s like white noise
+> You’re helplessly thinking all your life, every moment, so incessantly that you don’t even notice it. It’s like white noise
 
-You feel identified by your thoughts; you feel that you are the thinker. It’s completely structured by this flow of mentation
+> You feel identified by your thoughts; you feel that you are the thinker. It’s completely structured by this flow of mentation
 
-Thoughts bubble up constantly, completely possessing you, coloring your experience every moment (happy, sad, angry), affecting your goals, actions, and intentions
+> Thoughts bubble up constantly, completely possessing you, coloring your experience every moment (happy, sad, angry), affecting your goals, actions, and intentions
 
-Identity is not intrinsic. It is a structure of consciousness. You are constantly carried off by the next thought—be it a task, the memory of some criticism, a feeling of anxiety over something, the feeling of the breeze
+> Identity is not intrinsic. It is a structure of consciousness. You are constantly carried off by the next thought—be it a task, the memory of some criticism, a feeling of anxiety over something, the feeling of the breeze
 
 “I’m in the pain place. I’m in the place I came to seek.” – Goggins
 
