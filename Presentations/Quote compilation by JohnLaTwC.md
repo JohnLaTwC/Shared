@@ -994,3 +994,5 @@ I do the very best I know how—the very best I can, and I mean to keep doing so
 Relationships with influencers and reporters don’t keep negative stories from happening, they give us a chance to engage and make our case.
 
 Love keeps no records of wrongs.
+
+"Yes, but Icarus also flew."
