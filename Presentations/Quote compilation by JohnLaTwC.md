@@ -1012,3 +1012,5 @@ Relationships with influencers and reporters don’t keep negative stories from 
 Love keeps no records of wrongs.
 
 "Yes, but Icarus also flew."
+
+"Standing meetings are standing interruptions"
