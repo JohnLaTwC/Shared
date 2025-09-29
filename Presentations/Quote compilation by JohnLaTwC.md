@@ -847,7 +847,7 @@ Creativity does not involve creating out of the void, but out of chaos
 
 The doers are the real thinkers – Steve Jobs
 
-“We want AI agents that can discover like we can, not which constrain what we have discovered” -- Rich Sutton
+“We want AI agents that can discover like we can, not which contain what we have discovered” -- Rich Sutton
 
 “Abusers can tell when someone is not defended and protected” -- Dr. Gabor Maté
 
