@@ -352,7 +352,7 @@ Raphael: understand an idea morally – like the moral of a story.
 
 “The moment of discovery, it’s a moment when our knowledge of the thing being examined is suddenly renewed.”
 
-“Buy Dirt. Write a book. Sketch. Sing songs to the land divas and spirits. Run amok.” – Deanna Androski
+“Buy Dirt. Write a book. Sketch. Sing songs to the land divas and spirits. Run amok.” – via Deanna Androski
 
 “Improve every opportunity to express yourself in writing as if it were your last.” – Thoreau
 
