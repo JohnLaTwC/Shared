@@ -57,7 +57,7 @@ Universal ritual framework:
 
 “I was told by another CEO: it will surprise you how few decisions you have to make and how perfectly you have to make them – the rest you can delegate.”
 
-“Stay in the present. The past is depression (coulda/ shoulda/ woulda).”
+“Stay in the present. The future is anxiety. The past is depression”
 
 “Behind every no is a deeper yes to what you do want.”
 
@@ -67,7 +67,7 @@ Universal ritual framework:
 
 “When dreaming, think big. When executing, think small.”
 
-“Arrest the stories you tell yourself – ‘I have a sweet tooth,’ ‘I’m bad at names.’”
+“Arrest the stories you tell yourself – ‘I have a sweet tooth,’ ‘I’m bad at names.’ 'I'm not creative'”
 
 “Truth is that which has predictive pattern.”
 
@@ -83,7 +83,7 @@ Universal ritual framework:
 
 “Just make it exist first. You can make it good later.”
 
-“Above all, don’t lie to yourself.”
+“Above all, don’t lie to yourself.”  -Fyodor Dostoevsky
 
 “Your worst sin is that you have destroyed and betrayed yourself for nothing.”
 
@@ -114,6 +114,20 @@ Universal ritual framework:
 “We claim autonomy for ourselves and forget, in doing so, we can fall into the tyranny of defining other people as we would like them to be.” – Anne Truitt
 
 “The knowledge that I’ve got enough.” – Joseph Heller
+> True story, Word of Honor:
+> Joseph Heller, an important and funny writer now dead,
+> and I were at a party given by a billionaire on Shelter Island.
+> I said, “Joe, how does it make you feel
+> to know that our host only yesterday
+> may have made more money
+> than your novel ‘Catch-22’
+> has earned in its entire history?”
+> And Joe said, “I’ve got something he can never have.”
+> And I said, “What on earth could that be, Joe?”
+> And Joe said, “The knowledge that I’ve got enough.”
+> Not bad! Rest in peace!”
+> — Kurt Vonnegut, The New Yorker, May 16th, 2005
+
 
 “Have what you need. Need what you have.”
 
@@ -130,10 +144,14 @@ Universal ritual framework:
 Dylan Thomas
 
 > “Their faces shone under some radiance of mingled moonlight and lamplight”
+
 > “That turned the empty kisses into meaning”
+
 > “Do not go gentle into that good night
-Old age should rave and burn at close of day;
-Rage, rage against the dying of the light.”
+
+> Old age should rave and burn at close of day;
+
+> Rage, rage against the dying of the light.”
 
 FDR knew the value of dreams that could never be personally attained (because he was wheelchair-bound and would never hike the lands he preserved)
 
@@ -200,10 +218,8 @@ The man who does not read has no advantage over the man who cannot read. – Mar
 On what you cannot use up: You cannot use up creativity. The more you use, the more you have.
 
 If you could invest in a friend & get 10% of their income for life, who would you pick?
-
-And why them? What traits do they have? happiness, fitness
-
-Humans are bad at self-awareness – this helps own that.
+- And why them? What traits do they have? happiness, fitness, etc
+- Humans are bad at self-awareness – this helps own that.
 
 Just beat my record for most consecutive days of living.
 
@@ -213,7 +229,7 @@ The automatic things you do are basically those things that keep you from doing 
 
 Audit your habits. What automatic programs run in your mind?
 
-To believe yourself brave is to be brave. – Joan of Arc
+"To believe yourself brave is to be brave." – Joan of Arc
 
 As a writer, you need to know what you wonder about because this often leads to your best writing.
 
@@ -225,7 +241,7 @@ nemophilist – someone who loves forests for their beauty + peace
 
 What’s more important: the journey or the destination? The company.
 
-Wisdom cannot be imparted – it always sounds like foolishness.
+"Wisdom cannot be imparted – it always sounds like foolishness." - Siddhartha
 
 Knowledge can be imparted but not wisdom.
 
@@ -243,7 +259,7 @@ Only through waste do you know use.
 
 If you don’t read the newspaper, you’re uninformed. If you read the newspaper, you’re misinformed. – Mark Twain
 
-Max Q = maximum dynamic pressure
+Max Q = maximum dynamic pressure, (Charlie Bell)
 
 Asking for help isn’t giving up. It’s refusing to give up.
 
