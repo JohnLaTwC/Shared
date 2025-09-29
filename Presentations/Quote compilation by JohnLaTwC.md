@@ -20,7 +20,7 @@ NOTE: There may be mistakes as I used OCR to transcribe them from photos of my n
 
 “Part shakedown cruise, part hardening, part reconnaissance”
 
-“Successful investing is having everyone agree with you, later.”
+“Successful investing is having everyone agree with you, later.” - Jim Grant
 
 “If you want to go for a run, go for a run. Don’t look for company. Sooner or later on your path, like minded people will find you themselves. This principle works everywhere.”
 
