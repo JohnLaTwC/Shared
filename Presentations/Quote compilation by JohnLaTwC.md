@@ -565,7 +565,7 @@ Desire is the cause of all suffering.
 
 Nobody cares, work harder.
 
-We’re great at creating scorecards we want to be judged on, but is this what the customer wants.
+We’re great at creating scorecards we want to be judged on, but is this what the customer wants?
 
 There is no being, only becoming.
 
